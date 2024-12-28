@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918524547309",
+    "project_id": "atelier10-378ae",
+    "storage_bucket": "atelier10-378ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918524547309:android:7e74b4e902edd4f77e7ce4",
+        "android_client_info": {
+          "package_name": "com.example.atelier10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8D5tG_wDeekNwhshV2HkTGYxlHAlCnMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
